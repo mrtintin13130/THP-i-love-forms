@@ -1,24 +1,29 @@
-# README
+# THE GOSSIP PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vous pouvez accéder au site en production en [cliquant ici](https://thp-utilisateurs.herokuapp.com)
 
-Things you may want to cover:
+## Utilisation
 
-* Ruby version
+### Si vous clonez le repository
 
-* System dependencies
+```
+~ cd [NOM DE DU REPOSITORY] ("THP-utilisateurs" si vous ne modifiez pas le nom)
 
-* Configuration
+~ bundle install 
+```
 
-* Database creation
+### Si vous souhaitez lancer le site en local
 
-* Database initialization
+```
+~ rails server 
+```
 
-* How to run the test suite
+## Membres du groupe
 
-* Services (job queues, cache servers, search engines, etc.)
+* Stéphane (Github username: Timmo404)
 
-* Deployment instructions
+* Mickael (Github username: jango974)
 
-* ...
+* Elliot (Github username: nomoon456)
+
+* Martin (Github username: mrtintin13130)
