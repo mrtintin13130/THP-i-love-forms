@@ -1,0 +1,13 @@
+<html>
+<header>
+	<meta charset="utf-8">
+</header>
+<body>
+	<h1>Accueil</h1>
+	<% @user.each do |user| %>
+	<h2><%= user.username %></h2>
+	<h3><%= user.email %></h3>
+	<p><%= user.bio %></p>
+	<% end %>
+</body>
+</html>
